@@ -10,8 +10,8 @@ This Sorting Visualizer is a web application that allows you to visualize the so
 
 ## About the Author
 
-My name is Mandeep Patwa, and I developed this Sorting Visualizer. I am passionate about algorithms and enjoy creating interactive tools to enhance learning and understanding. I hope this visualizer helps you grasp the concepts of sorting algorithms more effectively. Enjoy exploring and learning from it!
+My name is Amisha Kumari, and I developed this Sorting Visualizer. I am passionate about algorithms and enjoy creating interactive tools to enhance learning and understanding. I hope this visualizer helps you grasp the concepts of sorting algorithms more effectively. Enjoy exploring and learning from it!
 
 Feel free to reach out if you have any questions or suggestions for improvement.
 
-*[Mandeep Patwa]*
+*[Amisha Kumari]*
